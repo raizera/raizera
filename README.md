@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raizera
 - 👀 I’m interested in Articifical Intelligence
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Qiskit
 - 💞️ I’m looking to collaborate on education issues
 - 📫 How to reach me prof.raizera@gmail.com
 
