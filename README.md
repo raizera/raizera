@@ -2,7 +2,7 @@
 - 👀 I’m interested in Articifical Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on education issues
-- 📫 How to reach me contato@escoladefisica.com
+- 📫 How to reach me prof.raizera@gmail.com
 
 <!---
 raizera/raizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
