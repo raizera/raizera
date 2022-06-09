@@ -20,6 +20,8 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raizera&layout=compact)](https://github.com/raizera/github-readme-stats)
+
 <a href="https://github.com/raizera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raizera&theme=dracula&show_icons=true" />
 </a>
