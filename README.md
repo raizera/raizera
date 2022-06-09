@@ -2,10 +2,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciencia de Dados** no <a href="https://univesp.br/">UNIVESP</a>.
-- 💼 &nbsp; Trabalhando como **ENSINO DE FÍSICA** no <a href="https://sp.senac.br/">SENAC São Paulo</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python e Data Science**.
+- 🎓 &nbsp; Estudando **Ciencia de Dados** no <a href="https://univesp.br/">UNIVESP</a>.
+- 💼 &nbsp; Trabalhando como **ENSINO DE FÍSICA** no <a href="https://sp.senac.br/">SENAC São Paulo</a>.
   
 ## **Linguagens e Ferramentas:**  
 
