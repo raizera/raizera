@@ -28,13 +28,17 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<div>
+  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Raí Garcia Torres](https://img.shields.io/badge/-raizera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raigarciatorres)](https://linkedin.com/in/raigarciatorres)
-[![Gmail Badge](https://img.shields.io/badge/-prof.raigarcia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prof.raigarcia@gmail.com)](mailto:prof.raigarcia@gmail.com)
-[![GitHub Raí]( https://img.shields.io/github/followers/raizera?label=follow&style=social)](github.com/raizera)
-
-![snake-gif](https://github.com/raizera/raizera/blob/output/github-contribution-grid-snake.svg)
+  [![Linkedin: Raí Garcia Torres](https://img.shields.io/badge/-raizera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raigarciatorres)](https://linkedin.com/in/raigarciatorres)
+  [![Gmail Badge](https://img.shields.io/badge/-prof.raigarcia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prof.raigarcia@gmail.com)](mailto:prof.raigarcia@gmail.com)
+  [![GitHub Raí]( https://img.shields.io/github/followers/raizera?label=follow&style=social)](github.com/raizera)
+</div>
+  
+<div>
+  ![Snake animation](https://github.com/raizera/raizera/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <!---
 raizera/raizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
