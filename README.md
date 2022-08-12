@@ -34,7 +34,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-prof.raigarcia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prof.raigarcia@gmail.com)](mailto:prof.raigarcia@gmail.com)
 [![GitHub Raí]( https://img.shields.io/github/followers/raizera?label=follow&style=social)](github.com/raizera)
 
-![snake-gif](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/raizera/raizera/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 raizera/raizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
