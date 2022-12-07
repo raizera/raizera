@@ -2,7 +2,7 @@
 
 - 🌱 &nbsp; Aprendendo **Python e Data Science**.
 - 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://univesp.br/">UNIVESP</a>.
-- 💼 &nbsp; Trabalhando com **ENSINO DE FÍSICA** no <a href="https://sp.senac.br/">SENAC São Paulo</a>.
+- 💼 &nbsp; Procurando um emprego na área de **DADOS**>.
   
 ## **Linguagens e Ferramentas:**  
 
