@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=raizera&color=006bed)
 
-- 🌱 &nbsp; Aprendendo mais sobre **Python e Data Science**.
+- 🌱 &nbsp; Aprendendo **Python e Data Science**.
 - 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://univesp.br/">UNIVESP</a>.
 - 💼 &nbsp; Trabalhando com **ENSINO DE FÍSICA** no <a href="https://sp.senac.br/">SENAC São Paulo</a>.
   
