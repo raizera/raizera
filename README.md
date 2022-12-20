@@ -2,8 +2,8 @@
 
 - 🌱 &nbsp; Aprendendo **Python e Data Science**.
 - 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://univesp.br/">UNIVESP</a>.
-- 🎓 &nbsp; Fazendo **Mestrado** na <a href="https://www.unicamp.br/">UNICAMP</a>.
-- 💼 &nbsp; Procurando um emprego na área de **DADOS**.
+- 🎓 &nbsp; **Mestrando** na <a href="https://www.unicamp.br/">UNICAMP</a>.
+- 💼 &nbsp; Em busca de um emprego na área de **DADOS**.
   
 ## **Linguagens e Ferramentas:**  
 
