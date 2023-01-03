@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=raizera&color=006bed)
-
 - 🌱 &nbsp; Aprendendo **Python e Data Science**.
 - 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://univesp.br/">UNIVESP</a>.
 - 🎓 &nbsp; **Mestrando** na <a href="https://www.unicamp.br/">UNICAMP</a>.
@@ -42,8 +40,4 @@
 
 ![Snake animation](https://github.com/raizera/raizera/blob/output/github-contribution-grid-snake.svg)
 
-
-<!---
-raizera/raizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=raizera&color=006bed)
