@@ -1,7 +1,7 @@
 - 🌱 &nbsp; Aprendendo **Python e Data Science**.
 - 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://univesp.br/">UNIVESP</a>.
 - 🎓 &nbsp; **Mestrando** na <a href="https://www.unicamp.br/">UNICAMP</a>.
-- 💼 &nbsp; Atualmente estudando **Redes Neurais Artificiais** para trabalhar com ferramentas de IA generativa.
+- 💼 &nbsp; Atualmente estudando para trabalhar com ferramentas de IA generativa de textos.
   
 ## **Linguagens e Ferramentas:**  
 
