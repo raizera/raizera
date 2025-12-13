@@ -31,7 +31,7 @@
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
   [![Linkedin: Rai Garcia Torres](https://img.shields.io/badge/-raizera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raigarciatorres)](https://linkedin.com/in/raigarciatorres)
-  [![Gmail Badge](https://img.shields.io/badge/-prof.raigarcia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raigarciatorres@outlook.com)](mailto:raigarciatorres@outlook.com)
+  [![Gmail Badge](https://img.shields.io/badge/-raigarciatorres@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raigarciatorres@outlook.com)](mailto:raigarciatorres@outlook.com)
   [![GitHub Rai]( https://img.shields.io/github/followers/raizera?label=follow&style=social)](github.com/raizera)
 </div>
   
