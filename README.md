@@ -1,5 +1,5 @@
-- 🌱 &nbsp; Aprendendo **Python e Data Science**.
-- 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://univesp.br/">UNIVESP</a>.
+- 🌱 &nbsp; Aprendendo **Python e SQL para área de Dados**.
+- 🎓 &nbsp; Estudando **Ciência de Dados e BTI** na <a href="https://univesp.br/">UNIVESP</a>.
 - 🎓 &nbsp; **Doutorando** na <a href="https://www.unicamp.br/">UNICAMP</a>.
 - 💼 &nbsp; Atualmente estudando para trabalhar como Arquiteto de dados.
   
